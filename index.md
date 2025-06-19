@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My GitHub Page
+[Home](/) | [About](/about) | [Projects](/projects) | [Contact](/contact)
+
+
+# Welcome to My Site 
 
 This is a custom homepage written in Markdown.
