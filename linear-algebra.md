@@ -20,7 +20,7 @@ v_i \in \mathbb{R}
 $$
 
 
-what is a matrix?
+## what is a matrix?
 
 $$
 A =
