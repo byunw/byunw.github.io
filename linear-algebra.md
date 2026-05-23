@@ -38,7 +38,17 @@ $$
 a_{ij} \in \mathbb{R}
 $$
 
-what is dot product?
+## what is dot product?
+
+\[
+\text{Let } \vec{u}, \vec{v} \in \mathbb{R}^n.
+\text{ Then}
+
+\qquad
+\vec{u} \cdot \vec{v}
+=
+\sum_{k=1}^{n} u_k v_k
+\]
 
 what is transpose?
 
