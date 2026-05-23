@@ -1,7 +1,5 @@
 On this page, I explain concepts using mathematical notation.
 
-
-
 ## What is a scalar?
 
 $$
@@ -23,7 +21,7 @@ v_i \in \mathbb{R}
 $$
 
 
-## what is a matrix?
+## What is a matrix?
 
 $$
 A =
@@ -41,7 +39,7 @@ $$
 a_{ij} \in \mathbb{R}
 $$
 
-## what is dot product?
+## What is dot product?
 Let
 
 $$
@@ -59,7 +57,7 @@ $$
 $$
 
 
-## what is transpose?
+## What is transpose?
 
 Let
 
@@ -105,7 +103,7 @@ $$
 C \in \mathbb{R}^{m \times p}
 $$
 
-## what is Eigenvalue and Eigenvector?
+## What is Eigenvalue and Eigenvector?
 Let
 
 $$
