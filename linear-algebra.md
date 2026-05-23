@@ -11,8 +11,6 @@ $$
 
 ## What is a vector?
 
-A vector is an ordered tuple of real numbers.
-
 $$
 \mathbf{v} = (v_1, v_2, \dots, v_n)
 $$
