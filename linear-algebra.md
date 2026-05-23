@@ -1,3 +1,6 @@
+On this page, I explain concepts using mathematical notation.
+
+
 
 ## What is a scalar?
 
@@ -102,7 +105,7 @@ $$
 C \in \mathbb{R}^{m \times p}
 $$
 
-## what is Eigenvalue?
+## what is Eigenvalue and Eigenvector?
 Let
 
 $$
@@ -134,8 +137,3 @@ $$
 $$
 
 is called an eigenvector of \( A \).
-
-
-## What is Eigenvector?
-
-
