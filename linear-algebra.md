@@ -90,7 +90,7 @@ $$
 B \in \mathbb{R}^{n \times p}
 $$
 
-Then the matrix multiplication of \( A \) and \( B \) is defined as
+Then the matrix multiplication of \( A \) and \( B \) is
 
 $$
 C = AB
@@ -101,13 +101,6 @@ where
 $$
 C \in \mathbb{R}^{m \times p}
 $$
-
-and each element of \( C \) is given by
-
-$$
-c_{ij} = \sum_{k=1}^{n} a_{ik} b_{kj}
-$$
-
 
 ## what is Eigenvalue?
 
