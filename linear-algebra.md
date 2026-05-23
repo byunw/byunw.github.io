@@ -39,7 +39,17 @@ a_{ij} \in \mathbb{R}
 $$
 
 ## what is dot product?
+Let \( \mathbf{u}, \mathbf{v} \in \mathbb{R}^n \) be two vectors.
 
+The dot product is defined as
+
+$$
+\mathbf{u} \cdot \mathbf{v}
+=
+\sum_{k=1}^{n} u_k v_k
+$$
+
+where \( u_k \) and \( v_k \) are the components of the vectors
 
 
 what is transpose?
