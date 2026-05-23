@@ -38,7 +38,17 @@ $$
 a_{ij} \in \mathbb{R}
 $$
 
-what is a tensor?
+## what is a tensor?
+
+
+An \( N \)-th order tensor is defined as
+
+$$
+\mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \cdots \times d_N}
+$$
+
+where each element of \( \mathcal{T} \) is a real number.
+
 
 what is dot product?
 
