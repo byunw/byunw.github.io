@@ -13,9 +13,6 @@ main:
 
   - title: "Projects"
     url: /talks/       
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Technical Posts"
     url: /year-archive/
