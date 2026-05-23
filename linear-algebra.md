@@ -56,12 +56,12 @@ $$
 $$
 
 
-what is transpose?
+## what is transpose?
 
-What is multiplication?
+## What is matrix multiplication?
 
-what is Eigenvalue?
+## what is Eigenvalue?
 
-What is Eigenvector?
+## What is Eigenvector?
 
 
