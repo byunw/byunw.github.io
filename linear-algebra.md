@@ -1,8 +1,6 @@
 
 ## What is a scalar?
 
-A scalar is a real number.
-
 $$
 x \in \mathbb{R}
 $$
