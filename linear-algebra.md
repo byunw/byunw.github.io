@@ -55,12 +55,6 @@ $$
 \sum_{k=1}^{n} u_k v_k
 $$
 
-where
-
-$$
-u_k, v_k \in \mathbb{R}
-$$
-
 
 what is transpose?
 
