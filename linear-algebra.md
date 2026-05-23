@@ -103,6 +103,26 @@ C \in \mathbb{R}^{m \times p}
 $$
 
 ## what is Eigenvalue?
+Let
+
+$$
+A \in \mathbb{R}^{n \times n}
+$$
+
+and
+
+$$
+\mathbf{v} \neq \mathbf{0}
+$$
+
+Then \( \lambda \in \mathbb{R} \) is called an eigenvalue of \( A \) if
+
+$$
+A\mathbf{v} = \lambda \mathbf{v}
+$$
+
+where \( \mathbf{v} \) is called an eigenvector of \( A \).
+
 
 ## What is Eigenvector?
 
