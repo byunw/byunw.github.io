@@ -2,6 +2,10 @@
 
 What is a scalar?
 
+$$
+x \in \mathbb{R}
+$$
+
 What is a vector?
 
 what is a matrix?
