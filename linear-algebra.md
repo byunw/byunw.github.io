@@ -58,6 +58,24 @@ $$
 
 ## what is transpose?
 
+Let
+
+$$
+A \in \mathbb{R}^{m \times n}
+$$
+
+Then the transpose of \( A \) is denoted by
+
+$$
+A^T \in \mathbb{R}^{n \times m}
+$$
+
+where
+
+$$
+(A^T)_{ij} = A_{ji}
+$$
+
 ## What is matrix multiplication?
 
 ## what is Eigenvalue?
