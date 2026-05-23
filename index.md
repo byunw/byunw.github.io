@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site 
+#Woosuk Byun 
 
-This is a custom homepage written in Markdown.
+
