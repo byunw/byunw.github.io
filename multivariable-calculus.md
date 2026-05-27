@@ -40,11 +40,11 @@ The graph of the multivariable function is the following:
 partial derivatives 
 
 $$
-\frac{df}{dx} = 
+\frac{df}{dx} = x
 $$
 
 $$
-\frac{df}{dy} = 
+\frac{df}{dy} = y
 $$
 
 
