@@ -24,6 +24,11 @@ The ordinary derivative gives the slope of the tangent line to the graph of the 
 
 Now that we know what an ordinary derivative is, let's understand what a partial derivative is!
 
+$$
+f(x,y) = x^2+y^2 / 2 
+$$
+
+
 
 
 
