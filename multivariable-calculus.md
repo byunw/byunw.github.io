@@ -33,7 +33,9 @@ $$
 
 The graph of the multivariable function is the following:
 
-
+<p align="center">
+  <img src="../images/Screen Shot 2026-05-27 at 11.40.35 AM.png" width="400">
+</p>
 
 
 
