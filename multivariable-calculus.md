@@ -48,9 +48,6 @@ $$
 $$
 
 
-
-
-
 ## What is chain-rule?
 
 To be updated.
