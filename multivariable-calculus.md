@@ -21,9 +21,7 @@ $$
 
 The ordinary derivative gives the slope of the tangent line to the graph of the function.
 
-
-
-
+Now that we know what an ordinary derivative is, let us understand what a partial derivative is.
 
 
 
