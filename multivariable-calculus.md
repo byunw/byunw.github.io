@@ -15,8 +15,6 @@ The graph of the function with one variable is the following:
   <img src="../images/Screen Shot 2026-05-27 at 9.28.47 AM.png" width="400">
 </p>
 
-The derivative of the function is
-
 $$
 \frac{df}{dx} = 2x
 $$
