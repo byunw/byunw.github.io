@@ -1,5 +1,6 @@
 
-On this page, I explain concepts using mathematical notation.
+On this page, I explain concepts using mathematical notation. 
+What I write on this page is the representation of my understanding.
 
 ## What is partial derivative?
 
