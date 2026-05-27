@@ -19,6 +19,9 @@ $$
 \frac{df}{dx} = 2x
 $$
 
+The derivative gives the slope of the tangent line to the graph of the function.
+
+
 
 
 
