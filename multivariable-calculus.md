@@ -50,9 +50,9 @@ $$
 
 ## What is chain-rule?
 
-To be updated.
+To be updated soon.
 
 ## What is gradient?
 
-To be updated.
+To be updated soon.
 
