@@ -28,7 +28,7 @@ Now that we know what an ordinary derivative is, let's understand what a partial
 Now, we have a multivariable function
 
 $$
-f(x,y) = x^2+y^2 / 2 
+f(x,y) = (x^2+y^2) / 2 
 $$
 
 
