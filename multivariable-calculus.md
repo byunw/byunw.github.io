@@ -5,9 +5,9 @@ On this page, I explain concepts using mathematical notation.
 
 We have a function with one variable:
 
-\[
+$$
 f(x) = x^2
-\]
+$$
 
 
 ## What is chain-rule?
