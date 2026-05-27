@@ -31,6 +31,9 @@ $$
 f(x,y) = (x^2+y^2) / 2 
 $$
 
+The graph of the multivariable function is the following:
+
+
 
 
 
