@@ -29,5 +29,9 @@ Now that we know what an ordinary derivative is, let's understand what a partial
 
 ## What is chain-rule?
 
+To be updated.
+
 ## What is gradient?
+
+To be updated.
 
