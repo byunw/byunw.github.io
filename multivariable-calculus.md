@@ -16,7 +16,7 @@ The graph of the function with one variable is the following:
 </p>
 
 $$
-\frac{df}{dx} = 2x (The derivative of the function with respect to x is 2x)
+\frac{df}{dx} = 2x
 $$
 
 
