@@ -50,7 +50,16 @@ $$
 
 ## What is chain-rule?
 
-To be updated soon.
+Before defining the definition of chain-rule, let's first solve the following problems from the following link!
+link: https://tutorial.math.lamar.edu/Problems/CalcI/ChainRule.aspx
+
+problem 1: 
+
+$$
+f(x) = (6x^2 + 7x)^4
+$$
+
+
 
 ## What is gradient?
 
