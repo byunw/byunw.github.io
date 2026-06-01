@@ -100,6 +100,15 @@ $$
 = -7csc(7w)cot(7w)
 $$
 
+problem 5:
+
+$$
+G(x) = 2sin(3x+tan(x))
+$$
+
+$$
+2\left(3+\sec^2(x)\right)\cos\left(3x+\tan(x)\right)
+$$
 
 
 
