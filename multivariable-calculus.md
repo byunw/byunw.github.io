@@ -101,7 +101,6 @@ $$
 $$
 
 problem 5:
-
 $$
 G(x) = 2sin(3x+tan(x))
 $$
