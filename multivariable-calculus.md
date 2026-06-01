@@ -90,6 +90,19 @@ $$
 (-8/3)(1-8z)^{(-2/3)}
 $$
 
+problem 4: 
+$$
+R(w) = csc(7w)
+$$
+
+$$
+\frac{dR}{dw}
+= -7csc(7w)cot(7w)
+$$
+
+
+
+
 
 
 ## What is gradient?
