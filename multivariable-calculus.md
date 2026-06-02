@@ -109,11 +109,14 @@ $$
 G'(x) = 2\left(3+\sec^2(x)\right)\cos\left(3x+\tan(x)\right)
 $$
 
+problem 6:
+$$
+h(u) = tan(4+10u) 
+$$
+
+$$
+10\sec^2(x)(4+10u)
+$$
 
 
-
-
-## What is gradient?
-
-To be updated soon.
 
