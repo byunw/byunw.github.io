@@ -136,7 +136,7 @@ $$
 g'(x) = sin(x)e^{1-cos(x)}
 $$
 
-problem 9
+problem 9:
 $$
 u(t) = tan^{-1}(3t-1)
 $$
