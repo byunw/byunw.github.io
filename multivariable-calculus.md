@@ -153,8 +153,7 @@ $$
 F'(y) = \frac{-10y+3y^2}{1-5y^2+y^3}
 $$
 
-problem 11
-
+problem 11:
 $$
 q(t) = t^2ln(t^5)
 $$
