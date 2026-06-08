@@ -7,7 +7,7 @@ P(A \mid B) = \frac{P(A \cap B)}{P(B)}, \quad \text{when } P(B) > 0.
 $$
 
 
-Let's solve a problem using the above definition.
+Let's solve a problem using the above definition!
 
 I roll a fair die. Let A be the event that the outcome is an odd number. Also let B
 be the event that the outcome is less than or equal to 3. What is P(A|B)? 
