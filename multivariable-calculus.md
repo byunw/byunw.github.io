@@ -163,15 +163,11 @@ q'(t) = 2tln(t^5) + 5t
 $$
 
 problem 12:
-
 $$
 S(w) = \sqrt{7w} + e^{-w}
 $$
 
-
 $$
 S(w)'= \frac{7}{2\sqrt{7w}} - e^{-w}
 $$
-
-
 
