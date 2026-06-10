@@ -171,3 +171,14 @@ $$
 S(w)'= \frac{7}{2\sqrt{7w}} - e^{-w}
 $$
 
+problem 13:
+$$
+f(x) = \cos\left(x^2 e^x\right)
+$$
+
+$$
+f'(x) = -\left(2xe^x + x^2e^x\right)\sin\left(x^2e^x\right)
+$$
+
+
+
