@@ -181,7 +181,6 @@ f'(x) = -\left(2xe^x + x^2e^x\right)\sin\left(x^2e^x\right)
 $$
 
 problem 14:
-
 $$
 g(z) = 3z^7-sin(z^2+6)
 $$
