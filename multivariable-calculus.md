@@ -198,6 +198,12 @@ $$
 f'(x) = cot(x)-10(4x^3-3)(x^4-3x)^9
 $$
 
+problem 16
+$$
+g(w) = cos(3w)sec(1-w) 
+$$
 
-
+$$
+g'(w) = -3sin(3w)sec(1-w)-cos(3w)sec(1-w)tan(1-w)
+$$
 
