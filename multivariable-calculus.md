@@ -209,11 +209,10 @@ $$
 
 problem 17:
 $$
-z = (5x+tan(4x))^{(1/2)}
-$$
+z = \sqrt{5x + \tan(4x)}$$
 
 $$
-
+z' = \frac{1}{2}\left(5x + \tan(4x)\right)^{-1/2}\left(5 + 4\sec^2(4x)\right)
 $$
 
 
