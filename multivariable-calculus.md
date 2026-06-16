@@ -215,7 +215,7 @@ $$
 z' = \frac{1}{2}\left(5x + \tan(4x)\right)^{-1/2}\left(5 + 4\sec^2(4x)\right)
 $$
 
-problem 17:
+problem 18:
 $$
 f(t) = \left(e^{-6t} + \sin(2 - t)\right)^3
 $$
