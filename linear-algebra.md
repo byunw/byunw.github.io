@@ -123,16 +123,14 @@ $$
 \lambda \in \mathbb{R}
 $$
 
-is called an eigenvalue of \( A \) if
-
-$$
-A\mathbf{v} = \lambda \mathbf{v}
-$$
-
-where
-
+is called an eigenvalue of \( A \) and
 $$
 \mathbf{v}
 $$
 
-is called an eigenvector of \( A \).
+is called an eigenvector of \( A \) if 
+
+$$
+A\mathbf{v} = \lambda \mathbf{v}
+$$. 
+
