@@ -224,6 +224,17 @@ $$
 f'(t)=3\left(e^{-6t}+\sin(2-t)\right)^2\left(-6e^{-6t}-\cos(2-t)\right)
 $$
 
+problem 19:
 
+$$
+y=\frac{\sin(3t)}{1+t^2}
+$$
+
+y'=
+\frac{
+(1+t)(\cos(t^3+t)\cdot 3-\sin(t^3+t)\cdot t)
+}{
+(1+t)^2
+}
 
 
