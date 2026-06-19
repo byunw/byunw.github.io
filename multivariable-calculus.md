@@ -233,9 +233,9 @@ $$
 $$
 y' =
 \frac{
-3\cos(t^3+t)-t\sin(t^3+t)
+(1+t^2)\left(3\cos(3t)\right)-\sin(3t)\left(2t\right)
 }{
-1+t
+(1+t^2)^2
 }
 $$
 
