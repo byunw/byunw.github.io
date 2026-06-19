@@ -230,11 +230,12 @@ $$
 y=\frac{\sin(3t)}{1+t^2}
 $$
 
-y'=
+$$
+y' =
 \frac{
-(1+t)(\cos(t^3+t)\cdot 3-\sin(t^3+t)\cdot t)
+3\cos(t^3+t)-t\sin(t^3+t)
 }{
-(1+t)^2
+1+t
 }
-
+$$
 
