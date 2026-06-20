@@ -3,9 +3,7 @@ On this page, I explain concepts using mathematical notation.
 What I write on this page is the representation of my understanding.
 
 ## What is function?
-function f maps every element in the domain of f to exactly one element in the codomain of f.
-
-
+function maps every element in the domain of the function to exactly one element in the codomain of the function.
 
 ## What is partial derivative?
 
