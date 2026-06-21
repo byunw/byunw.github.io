@@ -20,7 +20,7 @@ $$
 P(A|B) = \frac{1/3}{1/2} = \frac{2}{3}
 $$
 
-Bayes Theorem
+Bayes Theorem:
 $$
 P(A \mid B) = \frac{P(B \mid A)\,P(A)}{P(B)}
 \quad \text{where } A \text{ and } B \text{ are events and } P(B) \neq 0
