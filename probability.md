@@ -19,3 +19,6 @@ B = {1,2,3}
 $$
 P(A|B) = \frac{1/3}{1/2} = \frac{2}{3}
 $$
+
+Bayes Theorem
+P(A|B) = \frac{P(B|A)P(A)}{P(B)} where A&B are events and P(B)!=0
