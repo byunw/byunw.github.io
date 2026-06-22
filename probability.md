@@ -29,10 +29,9 @@ $$
 Let's solve problem using Bayes Theorem!
 
 Problem:
-Bag1 has 75 red marbles and 25 blue marbles.
-Bag2 has 60 red marbles and 40 blue marbles.
-Bag3 has 45 red marbles and 55 blue marbles. Suppose we observe the chosen marble is red, what is the probability that bag 1 was chosen?
-
+Bag 1 has 75 red marbles and 25 blue marbles.
+Bag 2 has 60 red marbles and 40 blue marbles.
+Bag 3 has 45 red marbles and 55 blue marbles. Suppose we observe the chosen marble is red, what is the probability that bag 1 was chosen?
 
 $$
 P(bag 1 chosen |red marble chosen) = \frac{P(red marble chosen|bag 1 chosen)P(bag 1 chosen)}{P(red marble chosen)} 
