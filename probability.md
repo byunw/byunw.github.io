@@ -36,3 +36,14 @@ Bag 3 has 45 red marbles and 55 blue marbles. Suppose we observe the chosen marb
 $$
 P(bag 1 chosen |red marble chosen) = \frac{P(red marble chosen|bag 1 chosen)P(bag 1 chosen)}{P(red marble chosen)} 
 $$
+
+$$
+P(\text{Bag 1 chosen} \mid \text{Red marble chosen})
+=
+\frac{
+P(\text{Red marble chosen} \mid \text{Bag 1 chosen})
+\, P(\text{Bag 1 chosen})
+}{
+P(\text{Red marble chosen})
+}
+$$
