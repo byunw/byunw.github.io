@@ -11,14 +11,14 @@ main:
   - title: "Math"
     url: /publications/
 
-  - title: "Projects"
-    url: /talks/       
+  # - title: "Projects"
+  #   url: /talks/       
         
-  - title: "Technical Posts"
-    url: /year-archive/
+  # - title: "Technical Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
