@@ -1,4 +1,4 @@
-
+What I write on this page is the representation of my understanding.
 
 If A and B are two events in a sample space S, then the conditional probability of A given B is defined as
 
