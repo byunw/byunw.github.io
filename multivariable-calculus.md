@@ -5,6 +5,28 @@ What I write on this page is the representation of my understanding.
 ## What is function?
 function maps every element in the domain of the function to exactly one element in the codomain of the function.
 
+## What is the formal definition of finite limit?
+
+\textbf{Definition: Finite Limits (Formal)}
+
+Let $f(x)$ be defined for all $x \neq a$ over an open interval containing $a$. Let $L$ be a real number. Then
+
+$$
+\lim_{x \to a} f(x) = L
+$$
+
+if, for every $\varepsilon > 0$, there exists a $\delta > 0$, such that if
+
+$$
+0 < |x-a| < \delta,
+$$
+
+then
+
+$$
+|f(x)-L| < \varepsilon.
+$$  
+
 ## What is partial derivative?
 
 We have a function with one variable:
