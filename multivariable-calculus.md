@@ -8,7 +8,7 @@ function maps every element in the domain of the function to exactly one element
 ## What is the formal definition of finite limit?
 
 
-Let \(f(x)\) be defined for all \(x \neq a\) over an open interval containing \(a\). Let \(L\) be a real number. Then
+Let \(f(x)\) be defined for all \(x \neq a\) over an open interval containing \(a\). Let L be a real number. Then
 
 $$
 \lim_{x \to a} f(x) = L
