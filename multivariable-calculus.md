@@ -14,7 +14,7 @@ $$
 \lim_{x \to a} f(x) = L
 $$
 
-if, for every $\varepsilon > 0$, there exists a $\delta > 0$, such that if
+if, for every $$\varepsilon > 0$$, there exists a $$\delta > 0$$, such that if
 
 $$
 0 < |x-a| < \delta,
