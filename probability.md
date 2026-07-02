@@ -45,8 +45,7 @@ P(\text{Red marble chosen})
 }
 $$
 
-What is the expected value of a random variable with a finite number of outcomes?
+## What is the expected value of a random variable with a finite number of outcomes?
 
-$$
-The expected value of a random variable with a finite number of outcomes is a weighted average of all possible outcomes. 
-$$
+The expected value of a random variable with a finite number of outcomes is the weighted average of all possible outcomes.
+
