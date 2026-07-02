@@ -51,8 +51,10 @@ The expected value of a random variable with a finite number of outcomes is the 
 
 ![Random Variable](/images/randomvariable.png)
 
-The expected value of the random variable with a finite number of outcomes = $$
 
+$$
+\text{The expected value of the random variable with a finite number of outcomes}
+=
 1\left(\frac{1}{6}\right)
 +
 2\left(\frac{1}{6}\right)
@@ -63,7 +65,6 @@ The expected value of the random variable with a finite number of outcomes = $$
 +
 5\left(\frac{1}{6}\right)
 +
-6\left(\frac{1}{6}\right)
-
+6\left(\frac{1}{6}\right).
 $$
 
