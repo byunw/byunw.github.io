@@ -10,4 +10,11 @@ $$
 {\text{Total number of predictions}}
 $$
 
+$$
+\text{Precision}
+=
+\frac{\text{True Positive}}
+{\text{True Positive + False Positive}}
+$$
+
 
