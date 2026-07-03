@@ -17,4 +17,12 @@ $$
 {\text{True Positive + False Positive}}
 $$
 
+$$
+\text{Recall}
+= 
+\frac{\text{True Positive}}
+{\text{True Positive + False Negative}}
+$$
+
+
 
