@@ -11,8 +11,8 @@ main:
   - title: "Math"
     url: /publications/
 
-  # - title: "Projects"
-  #   url: /talks/       
+  - title: "Machine Learning Fundamentals"
+    url: /machine-learning-fundamentals/       
         
   # - title: "Technical Posts"
   #   url: /year-archive/
