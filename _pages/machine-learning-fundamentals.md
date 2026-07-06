@@ -26,8 +26,8 @@ $$
 $$
 
 $$
-\text{Mean}
-= the sum of all numbers divided by their count
+\text{Mean} =
+\frac{\text{the sum of all numbers}}{\text{their count}}
 $$
 
 
