@@ -25,5 +25,10 @@ $$
 {\text{True Positive + False Negative}}
 $$
 
+$$
+\text{Mean}
+= is the sum of all numbers divided by their count
+$$
+
 
 
