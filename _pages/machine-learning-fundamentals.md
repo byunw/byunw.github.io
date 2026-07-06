@@ -27,7 +27,7 @@ $$
 
 $$
 \text{Mean}
-= is the sum of all numbers divided by their count
+= the sum of all numbers divided by their count
 $$
 
 
