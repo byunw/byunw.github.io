@@ -35,7 +35,7 @@ $$
 $$
 \text{Median}
 = 
-\text{the middle value of a dataset after the data are sorted in ascending or descending order.}
+\text{the middle value of a dataset after the data are sorted in ascending or descending order}
 $$
 
 
