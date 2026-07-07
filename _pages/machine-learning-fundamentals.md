@@ -25,6 +25,12 @@ $$
 {\text{True Positive + False Negative}}
 $$
 
+$$
+\text{Mean}
+= 
+\frac{\text{sum of all numbers}}
+{\text{count of all numbers}}
+$$
 
 
 
