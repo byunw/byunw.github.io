@@ -25,10 +25,7 @@ $$
 {\text{True Positive + False Negative}}
 $$
 
-$$
-\text{Mean} =
-\frac{\text{the sum of all numbers}}{\text{their count}}
-$$
+
 
 
 
