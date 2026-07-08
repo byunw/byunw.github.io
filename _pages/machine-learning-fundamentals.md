@@ -33,10 +33,12 @@ $$
 $$
 
 $$
-\text{Median}
+\text{variance}
 = 
-\text{the middle value of a dataset after the data are sorted in ascending or descending order}
+\text{\frac{(x_1-\mu)^2 + (x_2-\mu)^2 + \cdots + (x_n-\mu)^2}{n}
+}
 $$
+
 
 
 
