@@ -33,10 +33,9 @@ $$
 $$
 
 $$
-\text{variance}
-= 
-\text{\frac{(x_1-\mu)^2 + (x_2-\mu)^2 + \cdots + (x_n-\mu)^2}{n}
-}
+\text{Variance}
+=
+\frac{(x_1-\mu)^2 + (x_2-\mu)^2 + \cdots + (x_n-\mu)^2}{n}
 $$
 
 
