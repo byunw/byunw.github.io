@@ -65,6 +65,6 @@ $$
 +
 5\left(\frac{1}{6}\right)
 +
-6\left(\frac{1}{6}\right).
+6\left(\frac{1}{6}\right) = 3.5
 $$
 
