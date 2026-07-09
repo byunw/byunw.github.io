@@ -38,6 +38,13 @@ $$
 \frac{(x_1-\mu)^2 + (x_2-\mu)^2 + \cdots + (x_n-\mu)^2}{n}
 $$
 
+$$
+\text{Sigmoid}(x)
+=
+\frac{1}{1 + e^{-x}}
+$$
+
+
 
 
 
