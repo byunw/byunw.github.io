@@ -44,6 +44,13 @@ $$
 \frac{1}{1 + e^{-x}}
 $$
 
+$$
+\text{Softmax}(z_i)
+=
+\frac{e^{z_i}}
+{\sum_{j=1}^{K} e^{z_j}}
+$$
+
 
 
 
