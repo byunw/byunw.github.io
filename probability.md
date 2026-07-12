@@ -47,24 +47,4 @@ $$
 
 ## What is the expected value of a random variable with a finite number of outcomes?
 
-The expected value of a random variable with a finite number of outcomes is the weighted average of all possible outcomes.
-
-![Random Variable](/images/randomvariable.png)
-
-
-The expected value of the random variable with a finite number of outcomes is
-
-$$
-1\left(\frac{1}{6}\right)
-+
-2\left(\frac{1}{6}\right)
-+
-3\left(\frac{1}{6}\right)
-+
-4\left(\frac{1}{6}\right)
-+
-5\left(\frac{1}{6}\right)
-+
-6\left(\frac{1}{6}\right) = 3.5
-$$
-
+The expected value of a random variable with a finite number of outcomes is the weighted average of all possible outcomes. 
