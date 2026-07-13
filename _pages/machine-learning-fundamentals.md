@@ -51,6 +51,10 @@ $$
 {\sum_{j=1}^{K} e^{z_j}}
 $$
 
+$$
+\text{Population}
+= the entire set of data
+$$
 
 
 
