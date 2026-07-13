@@ -57,6 +57,11 @@ $$
 \text{the entire set of data}
 $$
 
+$$
+\text{Sample}
+=
+\text{a subset of the population}
+$$
 
 
 
