@@ -53,7 +53,8 @@ $$
 
 $$
 \text{Population}
-= the entire set of data
+=
+\text{the entire set of data}
 $$
 
 
