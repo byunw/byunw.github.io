@@ -1,6 +1,7 @@
 ---
 permalink: /machine-learning-fundamentals/
 layout: single
+author_profile: false
 ---
 
 $$
