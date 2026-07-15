@@ -64,7 +64,14 @@ $$
 \text{a subset of the population}
 $$
 
-
+$$
+\text{Cross-Entropy Loss}
+=
+-
+\sum_{i=1}^{C}
+y_i
+\log(\hat{y}_i)
+$$
 
 
 
