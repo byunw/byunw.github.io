@@ -4,6 +4,7 @@ What I write on this page is the representation of my understanding.
 
 ## What is function?
 function maps every element in the domain of the function to exactly one element in the codomain of the function.
+We usually denote a function as f. 
 
 ## What is the formal definition of finite limit?
 
