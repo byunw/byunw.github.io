@@ -73,5 +73,16 @@ y_i
 \log(\hat{y}_i)
 $$
 
+$$
+\text{GELU}(x)
+=
+x\Phi(x)
+$$
+
+$$
+\Phi(x)
+=
+\text{the cumulative distribution function of the Gaussian distribution}
+$$
 
 
