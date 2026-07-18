@@ -48,11 +48,7 @@ The graph of the function is the following:
   <img src="../images/Screen Shot 2026-05-27 at 9.28.47 AM.png" width="400">
 </p>
 
-$$
-\frac{df}{dx} = 2x
-$$
-
-The ordinary derivative gives the slope of the tangent line to the graph of the function.
+The derivative (2x) gives the slope of the tangent line to the graph of the function.
 
 Now that we know what an ordinary derivative is, let's understand what a partial derivative is!
 
