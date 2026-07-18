@@ -36,13 +36,13 @@ The following link can be helpful to understand the definition.
 
 ## What is partial derivative?
 
-We have a function with one variable:
+We have a function:
 
 $$
 f(x) = x^2
 $$
 
-The graph of the function with one variable is the following:
+The graph of the function is the following:
 
 <p align="center">
   <img src="../images/Screen Shot 2026-05-27 at 9.28.47 AM.png" width="400">
