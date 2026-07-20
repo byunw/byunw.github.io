@@ -92,4 +92,8 @@ x
 \right)
 $$
 
+$$
+\text{Batch size, learning rate, and the number of epochs are hyperparameters.}
+$$
+
 
