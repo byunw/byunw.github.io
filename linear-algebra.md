@@ -84,24 +84,29 @@ Let
 
 $$
 A \in \mathbb{R}^{m \times n}
+\quad \text{and} \quad
+B \in \mathbb{R}^{n \times p}.
 $$
 
-and
+The **matrix product** of \(A\) and \(B\) is the matrix
 
 $$
-B \in \mathbb{R}^{n \times p}
-$$
-
-Then the matrix multiplication of \( A \) and \( B \) is
-
-$$
-C = AB
+C = AB,
 $$
 
 where
 
 $$
-C \in \mathbb{R}^{m \times p}
+C \in \mathbb{R}^{m \times p}.
+$$
+
+The \((i,j)\)-th entry of \(C\) is given by
+
+$$
+c_{ij}
+=
+\sum_{k=1}^{n}
+a_{ik}b_{kj}.
 $$
 
 ## What is Eigenvalue and Eigenvector?
