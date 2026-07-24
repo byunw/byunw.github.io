@@ -100,14 +100,6 @@ $$
 C \in \mathbb{R}^{m \times p}.
 $$
 
-The \((i,j)\)-th entry of \(C\) is given by
-
-$$
-c_{ij}
-=
-\sum_{k=1}^{n}
-a_{ik}b_{kj}.
-$$
 
 ## What is Eigenvalue and Eigenvector?
 Let
