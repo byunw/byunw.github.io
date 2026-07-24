@@ -78,29 +78,6 @@ $$
 (A^T)_{ij} = A_{ji}
 $$
 
-## What is matrix multiplication?
-
-Let
-
-$$
-A \in \mathbb{R}^{m \times n}
-\quad \text{and} \quad
-B \in \mathbb{R}^{n \times p}.
-$$
-
-The **matrix product** of \(A\) and \(B\) is the matrix
-
-$$
-C = AB,
-$$
-
-where
-
-$$
-C \in \mathbb{R}^{m \times p}.
-$$
-
-
 ## What is Eigenvalue and Eigenvector?
 Let
 
