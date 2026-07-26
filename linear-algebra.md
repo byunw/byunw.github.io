@@ -60,22 +60,10 @@ $$
 
 ## What is transpose?
 
-Let
-
 $$
-A \in \mathbb{R}^{m \times n}
-$$
-
-Then the transpose of \( A \) is denoted by
-
-$$
-A^T \in \mathbb{R}^{n \times m}
-$$
-
-where
-
-$$
-(A^T)_{ij} = A_{ji}
+\text{Let } A \text{ be an } m \times n \text{ matrix. The transpose of } A,
+\text{ denoted by } A^T, \text{ is the } n \times m \text{ matrix whose columns
+are the respective rows of } A.
 $$
 
 ## Matrix Multiplication
