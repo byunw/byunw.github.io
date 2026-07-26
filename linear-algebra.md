@@ -80,10 +80,9 @@ $$
 
 ## Matrix Multiplication
 
-In this section, lets just do matrix multiplication!
+In this section, let's just do matrix multiplication!
 
-
-\[
+$$
 \begin{bmatrix}
 2 \\
 5 \\
@@ -100,7 +99,7 @@ In this section, lets just do matrix multiplication!
 6 & 15 & 12 & 3 \\
 4 & 10 & 8 & 2
 \end{bmatrix}
-\]
+$$
 
 ## What is Eigenvalue and Eigenvector?
 Let
