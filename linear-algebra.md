@@ -78,6 +78,34 @@ $$
 (A^T)_{ij} = A_{ji}
 $$
 
+## Matrix Multiplication
+
+Let
+
+$$
+A \in \mathbb{R}^{m \times n}
+$$
+
+and
+
+$$
+B \in \mathbb{R}^{n \times p}.
+$$
+
+The **matrix product** of \(A\) and \(B\) is the matrix
+
+$$
+C = AB,
+$$
+
+where
+
+$$
+C \in \mathbb{R}^{m \times p}.
+$$
+
+Each entry of \(C\) is computed by taking the **dot product** of a row of \(A\) and a column of \(B\).
+
 ## What is Eigenvalue and Eigenvector?
 Let
 
