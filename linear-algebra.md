@@ -80,31 +80,27 @@ $$
 
 ## Matrix Multiplication
 
-Let
+In this section, lets just do matrix multiplication!
 
-$$
-A \in \mathbb{R}^{m \times n}
-$$
 
-and
-
-$$
-B \in \mathbb{R}^{n \times p}.
-$$
-
-The **matrix product** of \(A\) and \(B\) is the matrix
-
-$$
-C = AB,
-$$
-
-where
-
-$$
-C \in \mathbb{R}^{m \times p}.
-$$
-
-Each entry of \(C\) is computed by taking the **dot product** of a row of \(A\) and a column of \(B\).
+\[
+\begin{bmatrix}
+2 \\
+5 \\
+-3 \\
+-2
+\end{bmatrix}
+\begin{bmatrix}
+-2 & -5 & -4 & -1
+\end{bmatrix}
+=
+\begin{bmatrix}
+-4 & -10 & -8 & -2 \\
+-10 & -25 & -20 & -5 \\
+6 & 15 & 12 & 3 \\
+4 & 10 & 8 & 2
+\end{bmatrix}
+\]
 
 ## What is Eigenvalue and Eigenvector?
 Let
