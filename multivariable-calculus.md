@@ -4,7 +4,7 @@ What I write on this page is the representation of my understanding.
 
 ## What is function?
 
-A function maps every in set X to an element in set Y. set X is called the domain of the function and the codomain of the function is set Y.
+A function maps every element in set X to an element in set Y. set X is called the domain of the function and the codomain of the function is set Y.
 
 ## What is the formal definition of finite limit?
 
