@@ -96,4 +96,7 @@ $$
 \text{Batch size, learning rate, and the number of epochs are hyperparameters.}
 $$
 
+$$
+\text{A GPU cluster consists of nodes which consist of GPUs}
+$$
 
