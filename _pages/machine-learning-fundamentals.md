@@ -65,15 +65,6 @@ $$
 $$
 
 $$
-\text{Cross-Entropy Loss}
-=
--
-\sum_{i=1}^{C}
-y_i
-\log(\hat{y}_i)
-$$
-
-$$
 \text{Batch size, learning rate, and the number of epochs are hyperparameters.}
 $$
 
