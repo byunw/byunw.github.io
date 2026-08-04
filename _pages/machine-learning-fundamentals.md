@@ -74,25 +74,6 @@ y_i
 $$
 
 $$
-\text{GELU}(x)
-=
-0.5x
-\left(
-1
-+
-\tanh
-\left(
-\sqrt{\frac{2}{\pi}}
-\left(
-x
-+
-0.044715x^3
-\right)
-\right)
-\right)
-$$
-
-$$
 \text{Batch size, learning rate, and the number of epochs are hyperparameters.}
 $$
 
