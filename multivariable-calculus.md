@@ -26,7 +26,7 @@ $$
 $$  
 
 This formal definition of finite limit is not easy to grasp initally but now I definitely have a better understanding of it. 
-The following link can be helpful to understand the definition. 
+The following link can be helpful for understanding the definition. The key to understanding this definition was to think of the "if" condition abstractly. 
 
 [Formal Definition of a Limit (LibreTexts)](https://math.libretexts.org/Courses/Mount_Royal_University/Calculus_for_Scientists_I/2%3A_Limit__and_Continuity_of_Functions/2.5%3A_Formal_Definition_of_a_Limit_%28optional%29)
 
