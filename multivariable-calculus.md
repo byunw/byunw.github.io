@@ -30,8 +30,3 @@ The following link can be helpful for understanding the definition. The key to u
 
 
 [Formal Definition of a Limit (LibreTexts)](https://math.libretexts.org/Courses/Mount_Royal_University/Calculus_for_Scientists_I/2%3A_Limit__and_Continuity_of_Functions/2.5%3A_Formal_Definition_of_a_Limit_%28optional%29)
-
-
-
-
-
