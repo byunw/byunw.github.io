@@ -75,7 +75,7 @@ $$
 
 What is back-propagation?
 
-Let's first look at the below diagram.
+Let's first look at the fully-connected neural network.
 ![Fully connected neural network](../images/fully-connected-neuralnetwork.png)
 
 
