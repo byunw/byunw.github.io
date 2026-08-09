@@ -72,3 +72,11 @@ $$
 \text{A GPU cluster consists of nodes which consist of GPUs}
 $$
 
+
+What is back-propagation?
+
+Let's first look at the below diagram.
+![Fully connected neural network](../images/fully-connected-neuralnetwork.png)
+
+
+
