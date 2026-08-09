@@ -79,8 +79,8 @@ What is back-propagation?
 Let's first look at the fully-connected neural network.
 ![Fully connected neural network](../images/fully-connected-neuralnetwork.png)
 
-The fully-connected neural network has initial weights. When the inputs are fed into the network, 
-15 and 15 are outputted. The mean-squared loss of 25 is calculated and backpropagation occurs. 
+The fully-connected neural network has initial weights. When the two inputs are fed into the network, 
+15 and 15 are outputted. The mean-squared loss of 25 is calculated and then backpropagation occurs. 
 
 
 
