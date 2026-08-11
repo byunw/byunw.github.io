@@ -81,7 +81,7 @@ Let's first look at the fully-connected neural network.
 
 The fully-connected neural network has initial weights. When the two inputs are fed into the network, 
 15 and 15 are outputted. The mean-squared loss of 25 is calculated and then backpropagation occurs (gradients of weights are computed). 
-Then, gradient descent can be applied to all the weights of the fully-connected neural network. But, why do we use gradient descent? what is the purpose of using gradient descent? 
+Then, gradient descent can be applied to all the weights of the fully-connected neural network. What is gradient descent trying to achieve?
 
 
 
