@@ -69,7 +69,7 @@ $$
 $$
 
 $$
-\text{A GPU cluster consists of nodes which consist of GPUs}
+\text{A GPU cluster consists of nodes which consist of GPUs. In my current project, I am using a single GPU (NVIDIA A100-SXM4-80GB)}
 $$
 
 <br>
