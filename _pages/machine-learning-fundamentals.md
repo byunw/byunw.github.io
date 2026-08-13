@@ -65,9 +65,12 @@ $$
 $$
 
 $$
-\text{Batch size, learning rate, and the number of epochs are hyperparameters.}
-\text{The batch size I am using in my current project is 16 and the learning rate I am using is 3e-5.}
-\text{The number of epochs was previously 10.}
+\begin{aligned}
+&\text{Batch size, learning rate, and the number of epochs are hyperparameters.} \\
+&\text{The batch size I am using in my current project is 16,} \\
+&\text{and the learning rate is } 3 \times 10^{-5}. \\
+&\text{The number of epochs was previously 10.}
+\end{aligned}
 $$
 
 $$
