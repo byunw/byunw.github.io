@@ -66,10 +66,13 @@ $$
 
 $$
 \text{Batch size, learning rate, and the number of epochs are hyperparameters.}
+\text{The batch size I am using in my current project is 16 and the learning rate I am using is 3e-5.}
+\text{The number of epochs was previously 10.}
 $$
 
 $$
-\text{A GPU cluster consists of nodes which consist of GPUs. In my current project, I am using a single GPU (NVIDIA A100-SXM4-80GB)}
+\text{A GPU cluster consists of nodes which consist of GPUs.}
+\text{In my current project, I am using a single GPU (NVIDIA A100-SXM4-80GB)}
 $$
 
 <br>
