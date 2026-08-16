@@ -91,5 +91,9 @@ The fully-connected neural network has initial weights. When the two inputs are 
 15 and 15 are outputted (if softmax layer is used, the outputs will be turned into a vector of probabilities [0.5,0.5]). The mean-squared loss of 25 is calculated and then backpropagation occurs (gradients of weights are computed). 
 Then, gradient descent can be applied to all the weights of the fully-connected neural network. What is gradient descent trying to achieve?
 
+What is scaling law?
+
+
+
 
 
