@@ -90,7 +90,7 @@ $$
 $$
 
 ## Matrix Addition
-In this section, let's just do matrix Addition!
+In this section, let's just do matrix addition!
 
 $$
 \begin{bmatrix}
