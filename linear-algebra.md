@@ -89,6 +89,29 @@ $$
 \end{bmatrix}
 $$
 
+## Matrix Addition
+In this section, let's just do matrix Addition!
+
+$$
+\begin{bmatrix}
+1 \\
+2
+\end{bmatrix}
++
+\begin{bmatrix}
+3 \\
+5
+\end{bmatrix}
+=
+\begin{bmatrix}
+4 \\
+7
+\end{bmatrix}
+$$
+
+
+
+
 ## What is Eigenvalue and Eigenvector?
 Let
 
