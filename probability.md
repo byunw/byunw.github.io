@@ -54,14 +54,12 @@ The expected value of a random variable with a finite number of outcomes is the 
    We can have a following probability distribution when randomly choosing a ball from the bag.
    
    $$
-   r \rightarrow 0.5
-   $$
-   $$
-   b \rightarrow 0.3
-   $$
-   $$
-   g \rightarrow 0.2
-   $$
+\begin{aligned}
+r &\rightarrow 0.5 \\
+b &\rightarrow 0.3 \\
+g &\rightarrow 0.2
+\end{aligned}
+$$
    
    The probability distribution is a function. If we call the function f, the probability of choosing a blue ball can be denoted as the following.
    f(b) = 0.3
