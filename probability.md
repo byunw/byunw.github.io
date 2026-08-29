@@ -62,7 +62,7 @@ g &\rightarrow 0.2
 $$
    
    The probability distribution is a function. If we call the function f, the probability of choosing a blue ball can be denoted as the following.
-   f(b) = 0.3
+   f(b) = 0.3. Now, we know what a probability distribution is!
    
 
 
