@@ -52,9 +52,17 @@ The expected value of a random variable with a finite number of outcomes is the 
 ## What is a probability distribution?
    Let's assume that we have 5 red balls and 3 blue balls and 2 green balls in a bag.
    We can have a following probability distribution when randomly choosing a ball from the bag.
-   r -> 0.5
-   b -> 0.3
-   g -> 0.2
+ [
+r \rightarrow 0.5
+]
+
+[
+b \rightarrow 0.3
+]
+
+[
+g \rightarrow 0.2
+]
    The probability distribution is a function. If we call the function f, the probability of choosing a blue ball can be denoted as the following.
    f(b) = 0.3
    
