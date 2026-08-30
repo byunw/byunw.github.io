@@ -66,5 +66,23 @@ $$
    
 ## What is a random variable?
   A random variable assigns outcomes of an experiment to numbers.
+
+## What is likelihood?
+   Let's first let θ = P(H), the probability of seeing a head when throwing a coin.
+   And, we define θ as the following.
+      θ = 0.2
+      θ = 0.4
+   And, we see a tail when throwing a coin. Then, we have the following function and we call this function likelihood.
+$$
+\begin{aligned}
+0.2 &\rightarrow 0.8 \\
+0.4 &\rightarrow 0.6 \\
+\end{aligned}
+$$
+   
+   
+   
+      
+  
   
 
