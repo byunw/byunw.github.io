@@ -73,6 +73,8 @@ $$
       θ = 0.2
       θ = 0.4
    And, we see a tail when throwing a coin. Then, we have the following function and we call this function likelihood.
+
+   
 $$
 \begin{aligned}
 0.2 &\rightarrow 0.8 \\
