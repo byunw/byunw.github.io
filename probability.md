@@ -81,6 +81,10 @@ $$
 0.4 &\rightarrow 0.6 \\
 \end{aligned}
 $$
+
+
+## What is prior distribution?
+   A prior distribution maps all possible values of θ to probabilities before an experiment occurs.
    
    
    
