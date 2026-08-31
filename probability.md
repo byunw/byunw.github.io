@@ -84,7 +84,7 @@ $$
 
 
 ## What is prior distribution?
-   A prior distribution maps all possible values of θ to probabilities before an experiment occurs.
+   A prior distribution maps possible values of θ to probabilities before an experiment occurs.
    
    
    
