@@ -11,6 +11,12 @@ Let's define as the following:
  A = {1,2,3}, B = {1,2,3,4}.
  Then, we write the following: A ⊂ B.
  In other words, A is a subset of B.
+
+The set with no elements is called the empty set.
+
+
+ 
+ 
  
  
  
