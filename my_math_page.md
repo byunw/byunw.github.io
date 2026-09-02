@@ -5,4 +5,12 @@ A set is a collection of objects. We can denote a set like the following: A = {1
 
 3 ∉ A and 4 ∉ A and 5 ∉ A.
 Set does not care about order so we can write the following: 
-{1,2} = {2,1}. But, {1,2}!={2,3}
+{1,2} = {2,1}. But, {1,2}!={2,3}. 
+
+Let's define as the following:
+ A = {1,2,3}, B = {1,2,3,4}.
+ Then, we write the following: A ⊂ B.
+ In other words, A is a subset of B.
+ 
+ 
+ 
