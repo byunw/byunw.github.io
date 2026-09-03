@@ -17,6 +17,7 @@ The set with no elements is called the empty set.
 There are two operators: ∪ and ∩. 
 Let's use each of them. 
 {1,2} ∪ {3,4} = {1,2,3,4}
+
 {1,2} ∩ {3,4} = {} = empty set
 
 
