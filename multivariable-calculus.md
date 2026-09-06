@@ -9,7 +9,10 @@ A function maps every element in set X to an element in set Y. set X is called t
 \end{aligned}
 $$
 
-We have a function here. What kind of function is this?
+We have a function here. What kind of function is this? This function is an injective function.
+Is this function also a surjective function? This function is also a surjective function. By definition, 
+This function is a bijective function.
+
 
 ## What is the formal definition of finite limit?
 
