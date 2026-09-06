@@ -22,6 +22,12 @@ $$
 \end{array}
 $$
 
+This function is not an injective function because two different elements in the domain of the function
+point to the same element. Then, is this function a surjective function? This function is not a surjective function.
+There is no way I can reach the element 6 from an element in the domain of f using f. By definition, this function
+is not a bijective function. 
+
+
 
 ## What is the formal definition of finite limit?
 
