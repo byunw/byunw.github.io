@@ -1,7 +1,15 @@
 
 A function maps every element in set X to an element in set Y. set X is called the domain of the function and the codomain of the function is set Y. The range of the function is a subset of the codomain of the function that is actually used. The codomain of the function and the range of the function can be the same. The graph of a function is the visual representation of it. f(x) represents the mapping value of each x. 
 
+  $$
+\begin{aligned}
+1 &\rightarrow 4 \\
+2 &\rightarrow 5 \\
+3 &\rightarrow 6
+\end{aligned}
+$$
 
+We have a function here. What kind of function is this?
 
 ## What is the formal definition of finite limit?
 
