@@ -11,7 +11,16 @@ $$
 
 We have a function here. What kind of function is this? This function is an injective function.
 Is this function also a surjective function? This function is also a surjective function. By definition, 
-this function is a bijective function.
+this function is a bijective function. Now, let's look at another function below.
+
+$$
+\begin{array}{ccc}
+1 & \rightarrow & 4 \\
+2 & \rightarrow & 5 \\
+  & \nearrow & \\
+3 & & 6
+\end{array}
+$$
 
 
 ## What is the formal definition of finite limit?
