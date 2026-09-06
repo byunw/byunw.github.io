@@ -20,6 +20,18 @@ Let's use each of them.
 
 {1,2} ∩ {3,4} = {} = empty set
 
+## What is a relation?
+
+A collection of ordered pairs is a relation.
+The following is a relation: {(1,2),(1,3)}.
+If we create a mapping diagram for this relation, we can know that the mapping diagram is not a function.
+Let's look at another relation: {(1,4),(2,5),(3,6)}. When we create a mapping diagram for this relation, 
+we can see that the mapping diagram is a function.
+
+
+
+
+
 
 
 
