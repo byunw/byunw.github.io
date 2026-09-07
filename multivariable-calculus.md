@@ -27,7 +27,9 @@ point to the same element. Then, is this function a surjective function? This fu
 There is no way I can reach the element 6 from an element in the domain of f using f. By definition, this function
 is not a bijective function. 
 
-
+## Function Composition
+Let's assume two functions f: X->Y and g: Y->Z and the codomain of f and the domain of g are the same sets.
+we define g ∘ f: X -> Z as the following: g(f(x)).
 
 ## What is the formal definition of finite limit?
 
