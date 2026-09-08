@@ -32,8 +32,8 @@ Let's assume two functions f: X->Y and g: Y->Z and the codomain of f and the dom
 we define g ∘ f: X -> Z as the following: g(f(x)).
 
 ## Inverse Function
-Given a function f with domain D and range R, it's inverse function f^{-1} has the domain R and range D such that
-f^{-1}(y) = x if f(x) = y.   
+Given a function f with domain D and range R, it's inverse function $f^{-1}$ has the domain R and range D such that
+$f^{-1}$(y) = x if f(x) = y.   
 
 
 ## What is the formal definition of finite limit?
