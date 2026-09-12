@@ -30,31 +30,31 @@ we can see that the mapping diagram is a function.
 
 ## What is standard deviation?
 
-Consider the numbers $$1, 2, 3, 4$$. Their mean is: 2.5
+Consider the numbers $$4, 4, 4, 4$$. Their mean is: 4
 
 
 First, let's substract the mean from each number and square it:
 
 $$
 \begin{aligned}
-(1 - 2.5)^2 &= 2.25 \\
-(2 - 2.5)^2 &= 0.25 \\
-(3 - 2.5)^2 &= 0.25 \\
-(4 - 2.5)^2 &= 2.25
+(4 - 4)^2 &= 0 \\
+(4 - 4)^2 &= 0 \\
+(4 - 4)^2 &= 0 \\
+(4 - 4)^2 &= 0
 \end{aligned}
 $$
 
 The variance 
 
 $$
-= \frac{5}{4}
+= \frac{0}{4} = 0
 $$
 
 $$
 standard deviation
-= \sqrt{\frac{5}{4}}
-\approx 1.11803398875
+= \sqrt{0} = 0
 $$
+
 
 
 
