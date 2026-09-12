@@ -50,9 +50,8 @@ $$
 = \frac{5}{4}
 $$
 
-The standard deviation is the square root of the variance:
-
 $$
+standard deviation
 = \sqrt{\frac{5}{4}}
 \approx 1.11803398875
 $$
