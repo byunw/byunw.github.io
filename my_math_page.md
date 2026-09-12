@@ -30,7 +30,7 @@ we can see that the mapping diagram is a function.
 
 ## What is standard deviation?
 
-Consider the numbers $1, 2, 3, 4$. Their mean is: 2.5
+Consider the numbers $$1, 2, 3, 4$$. Their mean is: 2.5
 
 
 First, calculate the squared differences from the mean:
