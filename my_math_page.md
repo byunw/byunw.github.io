@@ -47,12 +47,12 @@ $$
 The variance 
 
 $$
-= \frac{0}{4} = 0
+the sum of the four numbers / 4 = \frac{0+0+0+0}{4} = \frac{0}{4} = 0
 $$
 
 $$
-standard deviation
-= \sqrt{0} = 0
+standard deviation = \sqrt{variance}
+= \sqrt{0} = 0 
 $$
 
 
