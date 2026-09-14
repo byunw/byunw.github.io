@@ -44,7 +44,7 @@ $$
 \end{aligned}
 $$
 
-The variance 
+The variance = 
 
 $$
 the sum of the four numbers / 4 = \frac{0+0+0+0}{4} = \frac{0}{4} = 0
