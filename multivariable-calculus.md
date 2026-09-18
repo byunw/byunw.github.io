@@ -89,7 +89,11 @@ $$
 $$
 
 Is this function continuous at 4? The function is not defined at 4 and the function is not continuous at 4.
-However, this function is defined at 1,2,3. 
+The function is defined at 1. The function is defined at 2. The function is defined at 3.
+
+Now, let's find out a point where the function is continuous!
+
+
 
 ## The definition of the derivative of f at a
 
