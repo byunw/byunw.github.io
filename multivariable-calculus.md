@@ -77,10 +77,10 @@ $$
 \end{aligned}
 $$
 
-Now we have the formal definition of continuity written down, let's find out if a function is continuous at a point.
-Let's look at the following function. 
+Now we have the formal definition of continuity written down above, let's find out if a function is continuous at a point.
+Let's look at the following function.  
 
-  $$
+$$
 \begin{aligned}
 1 &\rightarrow 4 \\
 2 &\rightarrow 5 \\
@@ -88,6 +88,8 @@ Let's look at the following function.
 \end{aligned}
 $$
 
+Is this function continuous at 4? The function is not defined at 4 and the function is not continuous at 4.
+However, this function is defined at 1,2,3. 
 
 ## The definition of the derivative of f at a
 
