@@ -77,6 +77,18 @@ $$
 \end{aligned}
 $$
 
+Now we have the formal definition of continuity written down, let's find out if a function is continuous at a point.
+Let's look at the following function. 
+
+  $$
+\begin{aligned}
+1 &\rightarrow 4 \\
+2 &\rightarrow 5 \\
+3 &\rightarrow 6
+\end{aligned}
+$$
+
+
 ## The definition of the derivative of f at a
 
 $$
