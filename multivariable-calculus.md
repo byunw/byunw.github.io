@@ -67,8 +67,15 @@ The following link can be helpful for understanding the definition since it cont
 
 
 ## What is the formal definition of continuity?
-To be written.
-
+  
+$$
+\begin{aligned}
+&\text{A function } f \text{ is continuous at } a \text{ if and only if:}\\
+&\text{(i)}\quad f(a) \text{ is defined},\\
+&\text{(ii)}\quad \lim_{x \to a} f(x) \text{ exists},\\
+&\text{(iii)}\quad \lim_{x \to a} f(x)=f(a).
+\end{aligned}
+$$
 
 ## The definition of the derivative of f at a
 
