@@ -9,7 +9,8 @@ A function maps every element in set X to an element in set Y. set X is called t
 \end{aligned}
 $$
 
-We have a function here. What kind of function is this? This function is an injective function.
+We have a function here. What kind of function is this? This function is an injective function since every element in the domain 
+of the function is mapped to a distinct element. 
 Is this function also a surjective function? This function is also a surjective function. By definition, 
 this function is a bijective function. Now, let's look at another function below.
 
