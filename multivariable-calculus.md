@@ -26,8 +26,8 @@ $$
 
 This function is not an injective function because two different elements in the domain of the function
 point to the same element. Then, is this function a surjective function? This function is not a surjective function.
-There is no way I can reach the element 6 from an element in the domain of f using f. By definition, this function
-is not a bijective function. 
+There is no element in the domain of the function that maps to 6. By definition, this function
+is not a bijective function (A function has to be both injective and surjective to be a bijective function)
 
 ## Function Composition
 Let's assume two functions f: X->Y and g: Y->Z and the codomain of f and the domain of g are the same sets.
