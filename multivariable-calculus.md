@@ -11,7 +11,8 @@ $$
 
 We have a function here. What kind of function is this? This function is an injective function since every element in the domain 
 of the function is mapped to a distinct element. 
-Is this function also a surjective function? This function is also a surjective function. By definition, 
+Is this function also a surjective function? This function is also a surjective function since every element in the codomain of the function
+has at least 1 element in the domain that maps to it. By definition, 
 this function is a bijective function. Now, let's look at another function below.
 
 $$
