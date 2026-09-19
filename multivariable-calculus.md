@@ -30,8 +30,9 @@ There is no element in the domain of the function that maps to 6. By definition,
 is not a bijective function (A function has to be both injective and surjective to be a bijective function).
 
 ## Function Composition
-Let's assume two functions f: X->Y and g: Y->Z and the codomain of f and the domain of g are the same sets.
+Let's assume two functions f: X->Y and g: Y->Z.
 we define g ∘ f: X -> Z as the following: g(f(x)).
+
 
 ## Inverse Function
 Given a function f with domain D and range R, it's inverse function $f^{-1}$ has the domain R and range D such that
