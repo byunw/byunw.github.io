@@ -35,7 +35,7 @@ we define g ∘ f: X -> Z as the following: g(f(x)).
 
 
 ## Inverse Function
-Given a function $f$ with domain $D$ and range $R$, its inverse function $f^{-1}$ has domain $R$ and range $D$, such that $f^{-1}(y) = x$ if $f(x) = y$.
+Given a function $$f$$ with domain $$D$$ and range $$R$$, its inverse function $$f^{-1}$$ has domain $$R$$ and range $$D$$, such that $$f^{-1}(y) = x$$ if $$f(x) = y$$.
 
 
 ## What is the formal definition of finite limit?
