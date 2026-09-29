@@ -77,7 +77,12 @@ Then, gradient descent can be applied to all the weights of the fully-connected 
 
 
 What is dropout?
+
 ![droput](../images/dropout.png)
+
+The following diagram is taken from
+\href{https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf}
+{Dropout: A Simple Way to Prevent Neural Networks from Overfitting}.
 
 
 
