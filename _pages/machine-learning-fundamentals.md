@@ -76,6 +76,10 @@ The fully-connected neural network has initial weights. When the two inputs are 
 Then, gradient descent can be applied to all the weights of the fully-connected neural network. What is gradient descent trying to achieve?
 
 
+What is dropout?
+![droput](../images/dropout.png)
+
+
 
 
 
