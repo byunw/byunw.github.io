@@ -80,9 +80,13 @@ What is dropout?
 
 ![droput](../images/dropout.png)
 
-The following diagram is taken from
-\href{https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf}
-{Dropout: A Simple Way to Prevent Neural Networks from Overfitting}.
+The following diagram is taken from "Dropout: A Simple Way to Prevent Neural Networks from Overfitting".
+What see on the left is a fully-connected neural network. The fully-connected neural network has 2 hidden-layers
+which consist of 10 nodes. 
+
+
+
+
 
 
 
