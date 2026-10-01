@@ -93,7 +93,7 @@ $$
 \text{CrossEntropyLoss} &= -\sum_{c=1}^{C} y_c \log(p_c) \\
 \text{where}\quad C &= \text{number of classes} \\
 y_c &= \text{one-hot label for class } c \\
-p_c &= \text{predicted probability of class } c
+p_c &= \text{probability of class } c
 \end{aligned}
 $$
 
