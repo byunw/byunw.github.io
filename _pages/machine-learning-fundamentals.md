@@ -90,6 +90,7 @@ CrossEntropyLoss is defined as the following.
 
 $$
 \mathcal{CrossEntropyLoss} = -\sum_{c=1}^{C} y_c \log(p_c)
+where C = number of classes, y_c = one-hot encoding, p_c = a vector containing probabilities for each class
 $$
 
 
