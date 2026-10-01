@@ -86,9 +86,12 @@ which consist of 10 nodes. What we see on the right side is the result of dropou
 
 What is CrossEntropyLoss?
 
+CrossEntropyLoss is defined as the following.
+
 $$
 \mathcal{CrossEntropyLoss} = -\sum_{c=1}^{C} y_c \log(p_c)
 $$
+
 
 
 
