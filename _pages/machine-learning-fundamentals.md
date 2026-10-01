@@ -84,6 +84,12 @@ The following diagram is taken from "Dropout: A Simple Way to Prevent Neural Net
 What see on the left is a fully-connected neural network. The fully-connected neural network has 2 hidden-layers
 which consist of 10 nodes. What we see on the right side is the result of dropout on the fully-connected neural network on the left side.
 
+What is CrossEntropyLoss?
+
+$$
+\mathcal{CrossEntropyLoss} = -\sum_{c=1}^{C} y_c \log(p_c)
+$$
+
 
 
 
