@@ -129,5 +129,24 @@ $$
 
 When a high probability is assigned to the wrong class, the CrossEntropyLoss is higher.
 
+Example 3:
+y_c = [0 0 1],
+p_c = [0.33 0.35 0.32]
+
+
+For example 3,
+
+$$
+\text{CrossEntropyLoss}
+= -\left(0\ln(0.33) + 0\ln(0.35) + 1\ln(0.32)\right)
+\approx 2.18
+$$
+
+When a lower probability is assigned to the wrong class compared to example 2,
+the CrossEntropyLoss is lower. 
+
+
+
+
 
 
