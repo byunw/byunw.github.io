@@ -113,6 +113,20 @@ $$
 $$
 
 
+Example 2:
+y_c = [0 0 1]
+p_c = [0.98 0.01 0.01]
+
+
+For example 2,
+
+$$
+\text{CrossEntropyLoss}
+= -\left(0\ln(0.98) + 0\ln(0.01) + 1\ln(0.01)\right)
+= -\ln(0.01)
+\approx 4.60
+$$
+
 
 
 
