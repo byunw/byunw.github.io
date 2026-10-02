@@ -127,8 +127,7 @@ $$
 \approx 4.60
 $$
 
-When a high probability (0.98) is assigned to a correct class, the CrossEntropyLoss is lower.
-
+When a high probability is assigned to the wrong class, the CrossEntropyLoss is higher.
 
 
 
