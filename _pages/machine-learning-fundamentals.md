@@ -76,7 +76,7 @@ The fully-connected neural network has initial weights. When the two inputs are 
 Then, gradient descent can be applied to all the weights of the fully-connected neural network. What is gradient descent trying to achieve?
 
 
-What is dropout?
+What is **dropout?**
 
 ![droput](../images/dropout.png)
 
@@ -84,7 +84,7 @@ The following diagram is taken from "Dropout: A Simple Way to Prevent Neural Net
 What see on the left is a fully-connected neural network. The fully-connected neural network has 2 hidden-layers
 which consist of 10 nodes. What we see on the right side is the result of dropout on the fully-connected neural network on the left side.
 
-What is CrossEntropyLoss?
+What is **CrossEntropyLoss?**
 
 CrossEntropyLoss is defined as the following.
 
