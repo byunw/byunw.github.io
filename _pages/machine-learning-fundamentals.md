@@ -100,7 +100,7 @@ $$
 Now we have defined CrossEntropyLoss, let's calculate CrossEntropy for different cases.
 
 Example 1:
-y_c = [0 0 1]
+y_c = [0 0 1],
 p_c = [0.01 0.01 0.98]
 
 For example 1,
@@ -114,7 +114,7 @@ $$
 
 
 Example 2:
-y_c = [0 0 1]
+y_c = [0 0 1],
 p_c = [0.98 0.01 0.01]
 
 
