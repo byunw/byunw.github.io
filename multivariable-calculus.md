@@ -56,6 +56,16 @@ $$
 $$
 
 
+$$
+\begin{array}{ccc}
+3 & \rightarrow & 2 \\
+4 & \rightarrow & 1 \\
+\end{array}
+$$
+
+Is this function the inverse function of the first function?
+
+
 ## What is the formal definition of finite limit?
 
 
