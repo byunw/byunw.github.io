@@ -56,6 +56,9 @@ $$
 $$
 
 
+Is this function the inverse function of the first function?
+
+
 $$
 \begin{array}{ccc}
 3 & \rightarrow & 2 \\
@@ -63,7 +66,6 @@ $$
 \end{array}
 $$
 
-Is this function the inverse function of the first function?
 
 
 ## What is the formal definition of finite limit?
