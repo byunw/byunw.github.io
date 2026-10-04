@@ -66,6 +66,8 @@ $$
 \end{array}
 $$
 
+What is shown right above is a function but it is not an inverse function of the first function.
+
 
 
 ## What is the formal definition of finite limit?
