@@ -104,7 +104,9 @@ $$
 \lim_{x \to a} f(x)
 $$
 
-is used in the formal definition of continuity.
+is used in the formal definition of continuity so I believe that I won't be able to understand the formal definition of continuity
+if I do not have a deep understanding of the formal definition of finite limit.
+
 
 ## What is the formal definition of continuity?
   
