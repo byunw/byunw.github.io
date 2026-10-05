@@ -98,8 +98,13 @@ The following link helped me understand the formal definition of finite limit.
 
 [Formal Definition of a Limit (LibreTexts)](https://math.libretexts.org/Courses/Mount_Royal_University/Calculus_for_Scientists_I/2%3A_Limit__and_Continuity_of_Functions/2.5%3A_Formal_Definition_of_a_Limit_%28optional%29)
 
-The same expression in the formal definition of finite limit ($\lim_{x \to a} f(x)$)is used in the formal definition of continuity.
+The same expression in the formal definition of a finite limit,
 
+$$
+\lim_{x \to a} f(x)
+$$
+
+is used in the formal definition of continuity.
 
 ## What is the formal definition of continuity?
   
