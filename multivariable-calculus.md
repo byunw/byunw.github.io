@@ -131,8 +131,8 @@ $$
 $$
 
 Is this function continuous at 4? The function is not defined at 4 and the function is not continuous at 4. 
-In order for a function to be continuous point a, the 3 conditions have to be met.
-
+The function is also not defined at 5. I wrote down the formal definition of continuity. But, I do not yet understand the formal
+definition of continuity. 
 
 
 ## The definition of the derivative of f at a
