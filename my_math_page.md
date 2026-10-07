@@ -5,6 +5,11 @@ On this page, I write about mathematical concepts for fun in my free time.
 {1,2,3,4,...}
 
 
+## What are intgers?
+{...,-2,-1,0,1,2,...) 
+
+natural numbers is a subset of integers.
+
 ## What is a set?
 A set is a collection of objects. We can denote a set like the following: A = {1,2}.
 
