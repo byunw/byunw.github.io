@@ -1,5 +1,10 @@
 On this page, I write about mathematical concepts for fun in my free time.
 
+## What are natural numbers?
+
+{1,2,3,4,...}
+
+
 ## What is a set?
 A set is a collection of objects. We can denote a set like the following: A = {1,2}.
 
