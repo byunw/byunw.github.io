@@ -13,9 +13,9 @@ main:
 
   - title: "Machine Learning Fundamentals"
     url: /machine-learning-fundamentals/       
-        
-  # - title: "Technical Posts"
-  #   url: /year-archive/
+          
+  - title: "Projects"
+    url: /projects/
     
   # - title: "CV"
   #   url: /cv/
