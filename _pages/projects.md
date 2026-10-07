@@ -11,7 +11,10 @@ By running the code, I can know which device was assigned. In my case, a NVIDIA 
 I do not yet know the internal of NVIDIA A100-SXM4-80GB. 
 
 Before the training happens, the training dataset is loaded onto the ram (not onto the GPU).
-Since the GPU will be used, the value of device.type will be "cuda" (device.type value gets stored on the ram).
+Since the GPU will be used, the value of device.type will be "cuda" (device.type value gets stored on the ram). 3047,1044 parameters are first loaded onto the ram and they are copied to the GPU. The learning rate is initially 3e-5 and the epoch is 20. 
+
+
+
 
 
 
