@@ -137,6 +137,7 @@ Before understanding the formal definition of continuity, let's look at the foll
 
 ![](../images/graph.png)
 
+
 f: [2,5]->[0,z]
 The graph of f is shown above. 
 
