@@ -134,6 +134,9 @@ Is this function continuous at 4? The function is not defined at 4 and the funct
 The function is also not defined at 5. I wrote down the formal definition of continuity. But, I do not yet understand the formal
 definition of continuity. 
 
+![](../images/graph.png)
+
+
 
 ## The definition of the derivative of f at a
 
