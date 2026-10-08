@@ -131,10 +131,14 @@ $$
 $$
 
 Is this function continuous at 4? The function is not defined at 4 and the function is not continuous at 4. 
-The function is also not defined at 5. I wrote down the formal definition of continuity. But, I do not yet understand the formal
-definition of continuity. 
+The function is also not defined at 5. 
+
+Before understanding the formal definition of continuity, let's look at the following graph!
 
 ![](../images/graph.png)
+
+f: [2,5]->[0,z]
+The graph of f is shown above. 
 
 
 
