@@ -109,6 +109,9 @@ $$
 \end{bmatrix}
 $$
 
+The output of a fully-connected neural network can be expressed in the form of matrix multiplication + matrix.
+
+
 
 
 
