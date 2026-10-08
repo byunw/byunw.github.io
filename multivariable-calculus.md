@@ -135,7 +135,7 @@ The function is also not defined at 5.
 
 Before understanding the formal definition of continuity, let's look at the following graph!
 
-![](../images/graph.png)
+![graph](../images/graph.png)
 
 
 f: [2,5]->[0,z]
