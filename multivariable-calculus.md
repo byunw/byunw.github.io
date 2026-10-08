@@ -130,16 +130,15 @@ $$
 \end{aligned}
 $$
 
-Is this function continuous at 4? The function is not defined at 4 and the function is not continuous at 4. 
-The function is also not defined at 5. 
+f(4) is not defined. f(5) is not defined.
 
 Before understanding the formal definition of continuity, let's look at the following graph!
 
 ![graph](../images/graph.png)
 
+[2,5]->[0,z]
 
-f: [2,5]->[0,z]
-The graph of f is shown above. 
+
 
 
 
