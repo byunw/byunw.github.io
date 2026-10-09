@@ -145,6 +145,13 @@ $$
 When a lower probability is assigned to the wrong class compared to example 2,
 the CrossEntropyLoss is lower. 
 
+What is **regularization?**
+
+Regularization is any supplementary technique that makes the model generalize better, i.e. produce
+better results on the test dataset. 
+
+
+
 
 
 
