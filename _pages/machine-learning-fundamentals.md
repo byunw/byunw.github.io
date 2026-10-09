@@ -148,7 +148,9 @@ the CrossEntropyLoss is lower.
 What is **regularization?**
 
 Regularization is any supplementary technique that makes the model generalize better, i.e. produce
-better results on the test dataset. 
+better results on the test dataset. There are different types of regularization. The internal of a model can be a regularizer. 
+Regularization can also be achieved by adding a regularizer R into the loss function. Choosing the right optimizer and correctly choosing the right 
+hyperparameters (the learning rate) are a form of regularization. 
 
 
 
