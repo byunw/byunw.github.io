@@ -67,6 +67,7 @@ $$
 
 Now consider the numbers $$0, 2, 4, 10$$. Their mean is: 4.
 Let's calculate the variance of the numbers. 
+
 $$
 \begin{aligned}
 (0 - 4)^2 &= 16 \\
@@ -76,7 +77,10 @@ $$
 \end{aligned}
 $$
 
-The variance of the above numbers = (16+4+0+36)/4 = 14
+$$
+The variance of the above numbers = \frac{16+4+0+36}{4} = \frac{56}{4} = 14
+$$
+
 
 
 
