@@ -85,7 +85,7 @@ The first four numbers and the second four numbers have the same value of mean
 but they have different values of variance. As I expected, the second four numbers have a higher value of variance.
 
 $$
-standard deviation of the second group of numbers = \sqrt{variance}
+standard deviation = \sqrt{variance}
 = \sqrt{14} 
 $$
 
