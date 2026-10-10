@@ -81,6 +81,8 @@ $$
 The variance of the above numbers = \frac{16+4+0+36}{4} = \frac{56}{4} = 14
 $$
 
+The first four numbers and the second four numbers have the same value of mean 
+but they have different values of variance. As I expected, the second four numbers have a higher value of variance.
 
 
 
