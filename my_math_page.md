@@ -65,6 +65,19 @@ standard deviation = \sqrt{variance}
 = \sqrt{0} = 0 
 $$
 
+Now consider the numbers $$0, 2, 4, 10$$. Their mean is: 4.
+Let's calculate the variance of the numbers. 
+$$
+\begin{aligned}
+(0 - 4)^2 &= 16 \\
+(2 - 4)^2 &= 4 \\
+(4 - 4)^2 &= 0 \\
+(10 - 4)^2 &= 36 
+\end{aligned}
+$$
+
+The variance of the above numbers = (16+4+0+36)/4 = 14
+
 
 
 
