@@ -38,7 +38,7 @@ If we create a mapping diagram for this relation, we can know that the mapping d
 Let's look at another relation: {(1,4),(2,5),(3,6)}. When we create a mapping diagram for this relation, 
 we can see that the mapping diagram is a function.
 
-## What is standard deviation?
+## What is variance/standard deviation?
 
 Consider the numbers $$4, 4, 4, 4$$. Their mean is: 4
 
