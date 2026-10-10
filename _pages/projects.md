@@ -21,7 +21,7 @@ The loss is calculated for each epoch. Before the forward pass happens, the curr
 and are copied to the GPU. The corresponding labels are also loaded onto the ram and are copied to the GPU. Now, Let's dive into the internal
 of Hubert-ECG. The first layer of Hubert-ECG is the convolution layer and this convolution layer converts 1-lead ecg (a vector of size 9,000) into a matrix of size 512x2248. The next layer is GELUActivation layer and this layer's output has the same dimension as before 512x2248.   
 
-
+To be written more!
 
 
 
