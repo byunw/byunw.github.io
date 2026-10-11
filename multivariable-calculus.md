@@ -1,7 +1,8 @@
 
 
 
-What is a function? A function maps every element in set X to an element in set Y. set X is called the domain of the function and the codomain of the function is set Y. The range of the function is a subset of the codomain of the function that is actually used. The codomain of the function and the range of the function can be the same. The graph of a function is the visual representation of it. f(x) represents the mapping value of each x. Now what is the global minimum of a function? The global minimum of a function is the lowest overall value that the function takes across its entire domain. The global minimum of this function is 4. 
+What is a function? A function maps every element in set X to an element in set Y. set X is called the domain of the function and the codomain of the function is set Y. The range of the function is a subset of the codomain of the function that is actually used. The codomain of the function and the range of the function can be the same. The graph of a function is the visual representation of it. f(x) represents the mapping value of each x. Now what is the global minimum of a function? The global minimum of a function is the lowest overall value that the function takes across its entire domain. The global minimum of this function is 4. Similarly, what is the global maximum of a function? The global maximum of a function is the highest value that the function takes over its entire domain. The global maximum of the function is 6. 
+
 
   $$
 \begin{aligned}
