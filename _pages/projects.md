@@ -8,6 +8,8 @@ Author: Woosuk Byun (변우석)
 
 Problem Statement: Classifying 1-lead ECG (N,A,O,~) 
 
+Dataset: 
+
 My GoogleColab consists of 4 cells. Let's talk about what each cell does in this section.
 The code in the first cell copies 3 files and a folder to /content.
 Similar to the first cell, the second cell does not have much code. The second cell only has the following code: !nvidia-smi.
