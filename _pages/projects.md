@@ -25,7 +25,8 @@ Since the GPU will be used, the value of device.type will be "cuda" (device.type
 
 The loss is calculated for each epoch. Before the forward pass happens, the current batch of 1-lead ecgs are loaded onto the ram
 and are copied to the GPU. The corresponding labels are also loaded onto the ram and are copied to the GPU. Now, Let's dive into the internal
-of Hubert-ECG. The first layer of Hubert-ECG is the convolution layer and this convolution layer converts 1-lead ecg (a vector of size 9,000) into a matrix of size 512x2248. The next layer is GELUActivation layer and this layer's output has the same dimension as before 512x2248. The next layer (GroupNormalization) preserves the same dimension as before 512x2248.       
+of Hubert-ECG. The first layer of Hubert-ECG is the convolution layer and this convolution layer converts 1-lead ecg (a vector of size 9,000) into a matrix of size 512x2248. The next layer is GELUActivation layer and this layer's output has the same dimension as before 512x2248. The next layer (GroupNormalization) preserves the same dimension as before 512x2248. The output of the GroupNormalization layer is fed into the convolutional layer and the output of the convolution layer is 512x1123.
+This 512x1123 matrix is fed into the GeluActivation layer whose output has the dimension of 512x1123 and this output is again fed into the conv layer and the conv layer produces a matrix of 512x1123. The second GeluActivation layer produces a matrix of 512x1123 and the third conv layer produces a matrix of 512x561 and the output of the third convolutional layer is fed into the third GeluActivation layer and this GeluActivation layer produces a matrix of 512x561 and the next conv layer produces a matrix of 512x280 and the next GeluActivation layer produces a matrix of 512x280. 
 
 
 Evaluation: 
