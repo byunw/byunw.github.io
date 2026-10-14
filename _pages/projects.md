@@ -4,9 +4,9 @@ layout: single
 author_profile: false
 ---
 
-Project Link
+Author: Woosuk Byun (변우석)
 
-https://colab.research.google.com/drive/1Y0QKG7ma0KMVf9qXPS2w6HZqUVz8HEww?authuser=2#scrollTo=3758d381
+Problem Statement: Classifying 1-lead ECG (N,A,O,~) 
 
 My GoogleColab consists of 4 cells. Let's talk about what each cell does in this section.
 The code in the first cell copies 3 files and a folder to /content.
