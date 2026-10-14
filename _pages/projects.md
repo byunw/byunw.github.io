@@ -30,7 +30,7 @@ of Hubert-ECG. The first layer of Hubert-ECG is the convolution layer and this c
 
 Evaluation: 
 
-Deploy: 
+Deployment: 
 
 Monitor: 
 
