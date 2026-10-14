@@ -27,6 +27,18 @@ $$
 $$
 
 $$
+\text{Macro-F1}
+=
+\frac{1}{K}
+\sum_{k=1}^{K}
+\left(
+2
+\frac{\text{Precision}_k \cdot \text{Recall}_k}
+{\text{Precision}_k + \text{Recall}_k}
+\right)
+$$
+
+$$
 \text{Mean}
 = 
 \frac{\text{sum of all numbers}}
