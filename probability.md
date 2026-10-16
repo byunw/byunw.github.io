@@ -99,7 +99,7 @@ For example,
 X ~ Bernoulli (0.8)
 
 X=1 with probability of 0.8
-X=0 with probability of (1-0.8=2)
+X=0 with probability of (1-0.8=0.2)
 
 For example,
 X ~ Bernoulli (0.4) means 
