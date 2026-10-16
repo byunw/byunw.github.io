@@ -88,7 +88,7 @@ $$
 
 
 
-## What does X ~ Bernoulli (p)? 
+## What does X ~ Bernoulli (p) mean? 
 
 It means the following:
 
