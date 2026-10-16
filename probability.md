@@ -85,6 +85,33 @@ $$
 
 ## What is prior distribution?
    A prior distribution maps possible values of θ to probabilities before an experiment occurs.
+
+
+
+## What does X ~ Bernoulli (p)? 
+
+It means the following:
+
+X = 1 with probability of p
+X = 0 with probability of (1-p)
+
+For example, 
+X ~ Bernoulli (0.8)
+
+X=1 with probability of 0.8
+X=0 with probability of (1-0.8=2) 
+
+
+
+
+
+
+
+
+
+
+
+   
    
    
    
