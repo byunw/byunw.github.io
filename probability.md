@@ -92,7 +92,7 @@ $$
 
 It means the following:
 
-X = 1 with probability of p
+X = 1 with probability of p,
 X = 0 with probability of (1-p)
 
 For example, 
