@@ -7,7 +7,7 @@ author_profile: false
 
 Author: Woosuk Byun (변우석)
 
-Project Code Link: \href{https://colab.research.google.com/drive/1Y0QKG7ma0KMVf9qXPS2w6HZqUVz8HEww?usp=sharing}{Click Here}
+Project Code Link: [Click Here](https://colab.research.google.com/drive/1Y0QKG7ma0KMVf9qXPS2w6HZqUVz8HEww?usp=sharing)
 
 Problem Statement: Classifying 1-lead ECG (N,A,O,~) 
 
