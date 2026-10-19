@@ -164,6 +164,16 @@ better results on the test dataset. There are different types of regularization.
 Regularization can also be achieved by adding a regularizer R into the loss function. Choosing the right optimizer and correctly choosing the right 
 hyperparameters (the learning rate) are a form of regularization. 
 
+**Convolution Operation**
+Hubert-ecg has a convolution layer. Now, lets do a simple convolution operation to practice.
+Let's assume the following: 
+Input: [1,2,3,4], filter = [2,3], stride=1.
+
+Convolution output: [8,13,18]. 
+
+
+
+
 
 
 
