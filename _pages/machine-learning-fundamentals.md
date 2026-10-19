@@ -165,6 +165,7 @@ Regularization can also be achieved by adding a regularizer R into the loss func
 hyperparameters (the learning rate) are a form of regularization. 
 
 **Convolution Operation**
+
 Hubert-ecg has a convolution layer. Now, lets do a simple convolution operation to practice.
 Let's assume the following: 
 Input: [1,2,3,4], filter = [2,3], stride=1.
