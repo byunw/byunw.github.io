@@ -11,7 +11,7 @@ Project Code Link: [Click Here](https://colab.research.google.com/drive/1Y0QKG7m
 
 Problem Statement: Classifying 1-lead ECG (N,A,O,~) 
 
-Dataset: The original dataset had 8,528 1-ecgs and their labels (N,A,O,~). 
+Dataset: The original dataset had 8,528 1-lead ecgs and their truth labels (N,A,O,~). 
 The dataset can be downloaded from the following: [Click Here](https://physionet.org/content/challenge-2017/1.0.0/)
 
 Data Preprocessing:
