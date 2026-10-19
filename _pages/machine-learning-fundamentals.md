@@ -170,7 +170,7 @@ Hubert-ecg has a convolution layer. Now, lets do a simple convolution operation 
 Let's assume the following: 
 Input: [1,2,3,4], filter = [2,3], stride=1.
 
-Convolution output: [8,13,18]. 
+Convolution output: [8,13,18]. In this case, the input was downsized.
 
 
 
