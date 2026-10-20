@@ -13,7 +13,7 @@ Problem Statement: Classifying 1-lead ECG (N,A,O,~)
 
 Dataset: The original dataset had 8,528 1-lead ECGs and their truth labels (N,A,O,~). 
 The dataset can be downloaded from the following: [Click Here](https://physionet.org/content/challenge-2017/1.0.0/)
-There are 5,050 1-lead ECGs which are labeled as N. There are 2,456 1-lead ECGs which are labeled as O. There are 738 1-lead ECGs which are labeled as A. There are 284 1-lead ECGs which are labeled as ~. The majority of the 1-lead ECGs are labeled as N. In other words, the dataset is imbalanced. 
+There are 5,050 1-lead ECGs which are labeled as N. There are 2,456 1-lead ECGs which are labeled as O. There are 738 1-lead ECGs which are labeled as A. There are 284 1-lead ECGs which are labeled as ~. The majority of the 1-lead ECGs are labeled as N. In other words, the dataset is imbalanced. How was the whole dataset split into the training dataset, the validation set and the test dataset?
 
 Data Preprocessing:
 
