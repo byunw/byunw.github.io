@@ -11,7 +11,8 @@ Project Code Link: [Click Here](https://colab.research.google.com/drive/1Y0QKG7m
 
 Dataset: The original dataset had 8,528 1-lead ECGs and their truth labels (N,A,O,~). 
 The dataset can be downloaded from the following: [Click Here](https://physionet.org/content/challenge-2017/1.0.0/).
-There are 5,050 1-lead ECGs which are labeled as N. There are 2,456 1-lead ECGs which are labeled as O. There are 738 1-lead ECGs which are labeled as A. There are 284 1-lead ECGs which are labeled as ~. The majority of the 1-lead ECGs are labeled as N. In other words, the dataset is imbalanced. How was the whole dataset split into the training dataset, the validation set and the test dataset?
+There are 5,050 1-lead ECGs which are labeled as N. There are 2,456 1-lead ECGs which are labeled as O. There are 738 1-lead ECGs which are labeled as A. There are 284 1-lead ECGs which are labeled as ~. The majority of the 1-lead ECGs are labeled as N. In other words, the dataset is imbalanced. How was the whole dataset split into the training dataset, the validation set and the test dataset? The training dataset is approximately 70% of the original dataset (5,969 samples). The validation dataset is approximately 15% of the original dataset (1,279 data samples). The test dataset is approximately 15% of the original dataset (1,280 samples). The training dataset has approximately the same distribution of N,A,O,~ as that of the original dataset. The validation dataset has approximately the same distribution of N,A,O,~ as that of the original dataset. The test dataset has approximately the same distribution of N,A,O,~ as that of the original dataset. 
+
 
 Data Preprocessing:
 
