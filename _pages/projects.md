@@ -7,7 +7,7 @@ author_profile: false
 
 Author: Woosuk Byun (변우석)
 
-Project Code Link: [Click Here](https://colab.research.google.com/drive/1Y0QKG7ma0KMVf9qXPS2w6HZqUVz8HEww?usp=sharing)
+Problem Statement: Classifying 1-lead ECG into (N,A,O,~)  
 
 Dataset: The original dataset had 8,528 1-lead ECGs and their truth labels (N,A,O,~). 
 The dataset can be downloaded from the following: [Click Here](https://physionet.org/content/challenge-2017/1.0.0/).
