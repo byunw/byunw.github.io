@@ -34,8 +34,11 @@ This 512x1123 matrix is fed into the GeluActivation layer whose output has the d
 
 To be written more soon. 
 
-
 Evaluation: To be written soon.
+
+Model Deployment: To be written soon.
+
+
 
 
 
