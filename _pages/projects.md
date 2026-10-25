@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-Author: Woosuk Byun (변우석)
+Contributor: Woosuk Byun (변우석)
 
 Problem Statement: Classifying 1-lead ECG into (N,A,O,~)  
 
