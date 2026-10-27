@@ -5,7 +5,8 @@ author_profile: false
 ---
 
 
-Contributor: Woosuk Byun (변우석), advised by Professor Haibo Yang
+Contributor: Woosuk Byun (변우석)
+Advisor: Professor Haibo Yang
 
 Problem Statement: Classifying 1-lead ECG into (N,A,O,~)  
 
