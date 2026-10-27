@@ -6,9 +6,11 @@ author_profile: false
 
 
 Contributor: Woosuk Byun (변우석)
+
 Advisor: Professor Haibo Yang
 
-Problem Statement: Classifying 1-lead ECG into (N,A,O,~)  
+Problem Statement: Classifying single-lead ECG recordings into four classes: Normal (N), Atrial Fibrillation (A), Other Rhythm (O), and Noisy (~). 
+
 
 Dataset: The original dataset had 8,528 1-lead ECGs and their truth labels (N,A,O,~). 
 The dataset can be downloaded from the following: [Click Here](https://physionet.org/content/challenge-2017/1.0.0/).
