@@ -40,7 +40,7 @@ we can see that the mapping diagram is a function.
 
 ## What is variance/standard deviation?
 
-Consider the numbers $$4, 4, 4, 4$$. Their mean is: 4
+Consider the numbers $$4, 4, 4, 4$$. Their mean (average) is: 4
 
 
 First, let's substract the mean from each number and square it:
@@ -65,7 +65,7 @@ standard deviation = \sqrt{variance}
 = \sqrt{0} = 0 
 $$
 
-Now consider the numbers $$0, 2, 4, 10$$. Their mean is: 4.
+Now consider the numbers $$0, 2, 4, 10$$. Their mean is also: 4.
 Let's calculate the variance of the numbers. 
 
 $$
@@ -81,13 +81,8 @@ $$
 The variance of the above numbers = \frac{16+4+0+36}{4} = \frac{56}{4} = 14
 $$
 
-The first four numbers and the second four numbers have the same value of mean 
-but they have different values of variance. As I expected, the second four numbers have a higher value of variance.
-
-$$
-standard deviation = \sqrt{variance}
-= \sqrt{14} 
-$$
+The first set of numbers and the second set of numbers have the same number of numbers and have the same value of mean
+but the second set of numbers have a higher value of variance. 
 
 
 
