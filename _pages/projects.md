@@ -20,8 +20,8 @@ There are 5,050 1-lead ECGs which are labeled as N. There are 2,456 1-lead ECGs 
 Data Preprocessing: Out of all the training 1-lead ECGs, 4163 1-lead ecgs have a length of 9,000, 
                     1,107 1-lead ecgs have a length longer than 9,000. 699 1-lead ecgs have a length shorter than 9,000 
                     (Each values of every 1-lead ECG in the training set are represented in 2 bytes on the disk). 
-                     
-                    
+                    Every 1-lead in the current batch will be normalized and be a PyTorch Tensor length of 9000.
+                      
 Training:
 
 My GoogleColab consists of 4 cells. Let's talk about what each cell does in this section.
