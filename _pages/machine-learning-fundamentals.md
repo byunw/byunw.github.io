@@ -172,10 +172,7 @@ Input: [1,2,3,4], filter = [2,3], stride=1.
 
 Convolution output: [8,13,18]. In this case, the input was downsized.
 
-
-**Attention Mechanism** 
-
-Attention mechanism은 무엇인가? 
+**Attention mechanism은 무엇인가?**
 
 $$
 \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
