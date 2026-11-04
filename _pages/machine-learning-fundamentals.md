@@ -178,6 +178,7 @@ $$
 \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
 $$
 
+그럼 Attention mechanism에서 Q,K,V가 의미하는것은 무엇일까? 
 
 
 
