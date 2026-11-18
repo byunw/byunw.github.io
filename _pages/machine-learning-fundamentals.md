@@ -157,7 +157,7 @@ $$
 When a lower probability is assigned to the wrong class compared to example 2,
 the CrossEntropyLoss is lower. 
 
-Example 3:
+Example 4:
 y_c = [0 0 0 1] ,
 p_c = [0 0 0 1]
 
@@ -167,7 +167,7 @@ $$
 = -\left(0\ln(0) + 0\ln(0) + 0\ln(0) + 1\ln(1) \right) = 0
 $$
 
-When a high probability is given to the correct class, CrossEntropyLoss is tiny. 
+When a high probability is given to the correct class, CrossEntropyLoss is tiny.  
 
 
 What is **regularization?**
