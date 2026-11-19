@@ -170,6 +170,8 @@ $$
 When a high probability is given to the correct class, CrossEntropyLoss is tiny.  
 
 
+
+
 What is **regularization?**
 
 Regularization is any supplementary technique that makes the model generalize better, i.e. produce
