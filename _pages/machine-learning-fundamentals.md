@@ -104,7 +104,7 @@ $$
 \begin{aligned}
 \text{CrossEntropyLoss} &= -\sum_{c=1}^{C} y_c \log(p_c) \\
 \text{where}\quad C &= \text{number of classes} \\
-y_c &= \text{one-hot label for class } c \\
+y_c &= \text{one-hot label for class (either 0 or 1)} c \\
 p_c &= \text{probability of class } c
 \end{aligned}
 $$
